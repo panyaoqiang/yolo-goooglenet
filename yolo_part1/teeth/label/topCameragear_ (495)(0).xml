@@ -1,0 +1,38 @@
+<annotation>
+	<folder>teeth</folder>
+	<filename>topCameragear_ (495)(0).jpg</filename>
+	<path>K:\teeth\topCameragear_ (495)(0).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Helical</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>409</xmin>
+			<ymin>226</ymin>
+			<xmax>543</xmax>
+			<ymax>733</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Straight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>381</xmin>
+			<ymin>238</ymin>
+			<xmax>410</xmax>
+			<ymax>719</ymax>
+		</bndbox>
+	</object>
+</annotation>

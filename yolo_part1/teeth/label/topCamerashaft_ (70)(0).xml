@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>teeth</folder>
+	<filename>topCamerashaft_ (70)(0).jpg</filename>
+	<path>E:\teeth\topCamerashaft_ (70)(0).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Straight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>215</xmin>
+			<ymin>337</ymin>
+			<xmax>332</xmax>
+			<ymax>609</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Straight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>551</xmin>
+			<ymin>369</ymin>
+			<xmax>794</xmax>
+			<ymax>580</ymax>
+		</bndbox>
+	</object>
+</annotation>

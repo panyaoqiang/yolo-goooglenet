@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>teeth</folder>
+	<filename>topCameragear_ (481)(0).jpg</filename>
+	<path>K:\teeth\topCameragear_ (481)(0).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Straight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>389</xmin>
+			<ymin>221</ymin>
+			<xmax>574</xmax>
+			<ymax>736</ymax>
+		</bndbox>
+	</object>
+</annotation>
